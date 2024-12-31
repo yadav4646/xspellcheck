@@ -1,0 +1,17 @@
+.spell-checker {
+  text-align: center;
+}
+
+.spell-checker textarea {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+.spell-checker p {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #333;
+}
